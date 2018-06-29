@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dnfuller/Clicky_Game/issues"
   },
-  "homepage": "https://github.com/dnfuller/Clicky_Game#readme"
+  "homepage": "https://github.com/dnfuller/Clicky_Game#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
 }
